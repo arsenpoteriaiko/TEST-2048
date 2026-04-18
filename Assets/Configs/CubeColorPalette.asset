@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d682d2f4faa73c047b985ba11dde3a57, type: 3}
+  m_Name: CubeColorPalette
+  m_EditorClassIdentifier: Assembly-CSharp::Game2048.CubeManagment.CubeColorPalette
+  _cubeColors:
+  - {r: 0.6792522, g: 1, b: 0.5896226, a: 1}
+  - {r: 0.89336085, g: 1, b: 0.5882353, a: 1}
+  - {r: 0.98687005, g: 1, b: 0.5882353, a: 1}
+  - {r: 1, g: 0.8628243, b: 0.25098038, a: 1}
+  - {r: 1, g: 0.72573143, b: 0.25098038, a: 1}
+  - {r: 1, g: 0.56348157, b: 0.25098038, a: 1}
+  - {r: 1, g: 0.30877015, b: 0.25098038, a: 1}
+  - {r: 1, g: 0.25098038, b: 0.54675275, a: 1}
+  - {r: 1, g: 0.25098038, b: 0.9019898, a: 1}
